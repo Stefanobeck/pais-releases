@@ -1,0 +1,6 @@
+{
+    "version": "1.0.2",
+    "url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.2/PAIS_Setup_1.0.2.exe",
+    "sha256": "cbf8284d482bc147a73f815ab1044bc5c984f870a163c43bdf7b767fcf7d91fd",
+    "notes": "Banner moduli non attivati, fix carta di credito, hardening sicurezza."
+  }
