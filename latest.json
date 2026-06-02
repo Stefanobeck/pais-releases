@@ -1,9 +1,9 @@
   {
-    "version": "1.0.3",
+    "version": "1.0.3.1",
     "runtime": "1",
-    "url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.2/PAIS_Setup_1.0.2.exe",
-    "sha256": "cbf8284d482bc147a73f815ab1044bc5c984f870a163c43bdf7b767fcf7d91fd",
-    "app_url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.2/pais-app-1.0.2.zip",
-    "app_sha256": "d79a88b89e900fee709fa7a4918d4d37f50f1c55d4c47cfecfefcbed481ea30f",
-    "notes": "Test update incrementale"
+    "notes": "Test update incrementale app-only (~4MB).",
+    "app_url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.3.1/pais-app-1.0.3.1.zip",
+    "app_sha256": "daff267d279a2f114a5d10d755557e21027a0e7921505f45ff1aea5f9d5883fa",
+    "url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.3.1/pais-app-1.0.3.1.zip",
+    "sha256": "daff267d279a2f114a5d10d755557e21027a0e7921505f45ff1aea5f9d5883fa"
   }
