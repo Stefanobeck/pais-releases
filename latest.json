@@ -1,7 +1,7 @@
- {
-    "version": "1.0.0",
-    "runtime": "1",
-    "notes": "Prima release.",
-    "url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.0/PAIS_Setup_1.0.0.exe",
-    "sha256": "52c384ee785ac07b3578fb79d7aadc37f612314e3b9c90f0b9607590bf73a718"
-  }
+{
+  "version": "1.0.0",
+  "runtime": "1",
+  "notes": "Fix: teaser Compare Mode in trial scaduto (niente lampeggio) + PDF con immagini unito in un solo documento OCR. Aggiornati crediti/licenze.",
+  "url": "https://github.com/stefanobeck/pais-releases/releases/download/v1.0.0/PAIS_Setup_1.0.0.exe",
+  "sha256": "52fbf45f7277098e4f18bcce69522af5c03b633fdacfe26bc0c68511c33af2e8"
+}
