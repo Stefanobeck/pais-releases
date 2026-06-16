@@ -1,0 +1,9 @@
+{
+  "version": "1.0.5",
+  "runtime": "2",
+  "notes": "Setup iniziale piu snello (pacchetto base = 4 modelli; Manipulate e Translate installabili a parte). Anonimyze potenziato (PII piu accurato, codici fiscali, nomi italiani, XML/JSON, audit). Convert piu robusto, OCR ibrido per PDF. Integrazioni Mail e Telegram (notifiche batch, export via mail). Mermaid e formule renderizzate in chat/PDF/DOCX/PPTX. Vari fix di stabilita e onboarding.",
+  "url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.5/PAIS_Setup_1.0.5.exe",
+  "sha256": "04a3f0fc894659bdf419649792a95c451b8a38b5e5feaf4158e07366f79f91da",
+  "app_url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.5/pais-app-1.0.5.zip",
+  "app_sha256": "ce503dbef6ba3d53d9058f076964dd65356f344a4b5337e56b486742d43b1a9c"
+}
