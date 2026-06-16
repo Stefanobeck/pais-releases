@@ -1,9 +1,0 @@
-{
-  "version": "1.0.4",
-  "runtime": "2",
-  "notes": "Nuovo: tab Macro in Manipulate (macro VBA, LibreOffice Basic e Python in Excel da copiare). Runtime AI aggiornato. Fix: versione runtime in Settings, vault Anonimyze persistente, Identita Studio multi-profilo, supporto in-app, UI Manipulate.",
-  "url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.4/PAIS_Setup_1.0.4.exe",
-  "sha256": "f0631c67f541b80d5bb00433e457d2b47b6b816857309196c52f670c7f4f74e7",
-  "app_url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.4/pais-app-1.0.4.zip",
-  "app_sha256": "26bfe0df04ad641ee047a2845e6e98b501bb2d5c68527f5e4a04c5f38b3c1c6e"
-}
