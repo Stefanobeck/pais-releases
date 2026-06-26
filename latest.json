@@ -1,6 +1,7 @@
 {
   "version": "1.0.7",
   "runtime": "2",
+  "platform": "win",
   "notes": "Font dell'interfaccia inclusi nell'app (Inter, Manrope, Material Symbols): nessuna richiesta a Google Fonts CDN, tutto funziona offline (privacy). Il numero di versione in alto si illumina e diventa il pulsante di aggiornamento quando c'e' una nuova versione. Include le novita' della 1.0.6 (export math/.tex/Mermaid, primo setup snello, stabilita').",
   "url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.7/PAIS_Setup_1.0.7.exe",
   "sha256": "f6cc38351a236f4453a5fe98f4ccad71e56f6cd811c5b95d70425384b6a9cdcd"
