@@ -1,8 +1,8 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "runtime": "2",
   "platform": "win",
-  "notes": "Aggiornamenti piu' sicuri: il client riconosce la piattaforma del pacchetto e rifiuta un installer non destinato al proprio OS (convivenza Windows/macOS). Include le novita' della 1.0.7 (font inclusi nell'app/offline, indicatore versione che diventa pulsante di aggiornamento).",
-  "url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.8/PAIS_Setup_1.0.8.exe",
-  "sha256": "ce790791578abafc64e4f1bae2e6df0946a33d3ce8d72a281b4d27b13d7baa62"
+  "notes": "Avviso a schermo quando manca la connessione durante il download dei modelli. Vision: la barra di input non copre piu' la scrollbar. Pagina License & Credits ripulita (solo documenti utente). Include le novita' della 1.0.8 (font inclusi/offline, indicatore versione = pulsante update, update consapevole della piattaforma).",
+  "url": "https://github.com/Stefanobeck/pais-releases/releases/download/v1.0.9/PAIS_Setup_1.0.9.exe",
+  "sha256": "2dda35e086016d959fa9c1e99967773a86010d5b1adcb5e66a308fbc912d2518"
 }
